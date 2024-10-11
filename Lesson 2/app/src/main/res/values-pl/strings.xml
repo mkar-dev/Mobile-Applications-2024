@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="get_started">Rozpocznij</string>
+    <string name="welcomeLabelDesc">Witaj w przytulnej kawiarni gdzie...</string>
+    <string name="welcomeLabel">Zakochaj się w kawie!</string>
+</resources>
